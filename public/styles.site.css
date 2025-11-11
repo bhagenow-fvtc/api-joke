@@ -1,0 +1,12 @@
+body {
+    
+    background-color:aquamarine;
+    color:black;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#nextJokeBtn {
+    background-color: red;
+    color: white;
+}

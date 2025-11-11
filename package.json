@@ -1,0 +1,15 @@
+{
+  "name": "apijoke",
+  "version": "1.0.0",
+  "description": "apijoke",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bonnie Hagenow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
