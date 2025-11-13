@@ -8,10 +8,12 @@ async function fetchJoke() {
         const data = await response.json()
 
         
-        const jokeElement = document.getElementById('joke')
+        //const jokeElement = document.getElementById('joke')
+        const jokeElement = document.querySelector('#joke')
 
         
-        const punchlineElement = document.getElementById('punchline')
+        //const punchlineElement = document.getElementById('punchline')
+        const punchlineElement = document.querySelector('#punchline')
 
         
         jokeElement.textContent = data.joke
